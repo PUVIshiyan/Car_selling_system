@@ -17,6 +17,22 @@ namespace ABC_Car_Traders
             InitializeComponent();
         }
 
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            Form form = new Register();
+            form.ShowDialog();
+        }
 
+        private void btnCarSearch_Click(object sender, EventArgs e)
+        {
+            Form car=new Car_Brands();
+            car.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form parts=new Car_parts(); 
+            parts.ShowDialog();
+        }
     }
 }

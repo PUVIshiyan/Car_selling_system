@@ -29,72 +29,72 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.button1 = new System.Windows.Forms.Button();
+            this.RbtnnNews = new System.Windows.Forms.RadioButton();
+            this.btnRegis = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtFname = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtLname = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtCpW = new System.Windows.Forms.TextBox();
+            this.txtPw = new System.Windows.Forms.TextBox();
+            this.txtMailID = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtMnum = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.txtAddress = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel1.Controls.Add(this.radioButton1);
-            this.panel1.Controls.Add(this.button1);
+            this.panel1.Controls.Add(this.RbtnnNews);
+            this.panel1.Controls.Add(this.btnRegis);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.label6);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.txtFname);
             this.panel1.Controls.Add(this.label5);
-            this.panel1.Controls.Add(this.textBox2);
+            this.panel1.Controls.Add(this.txtLname);
             this.panel1.Controls.Add(this.label3);
-            this.panel1.Controls.Add(this.textBox7);
-            this.panel1.Controls.Add(this.textBox3);
-            this.panel1.Controls.Add(this.textBox4);
+            this.panel1.Controls.Add(this.txtCpW);
+            this.panel1.Controls.Add(this.txtPw);
+            this.panel1.Controls.Add(this.txtMailID);
             this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.textBox5);
+            this.panel1.Controls.Add(this.txtMnum);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.textBox6);
+            this.panel1.Controls.Add(this.txtAddress);
             this.panel1.Location = new System.Drawing.Point(12, 16);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(356, 422);
             this.panel1.TabIndex = 4;
             // 
-            // radioButton1
+            // RbtnnNews
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radioButton1.Location = new System.Drawing.Point(23, 350);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(315, 20);
-            this.radioButton1.TabIndex = 5;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Yes, I\'d like to receive latest car deals and news.";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.RbtnnNews.AutoSize = true;
+            this.RbtnnNews.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.RbtnnNews.Location = new System.Drawing.Point(23, 350);
+            this.RbtnnNews.Name = "RbtnnNews";
+            this.RbtnnNews.Size = new System.Drawing.Size(315, 20);
+            this.RbtnnNews.TabIndex = 5;
+            this.RbtnnNews.TabStop = true;
+            this.RbtnnNews.Text = "Yes, I\'d like to receive latest car deals and news.";
+            this.RbtnnNews.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btnRegis
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(61, 380);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(207, 28);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Register";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnRegis.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegis.Location = new System.Drawing.Point(61, 380);
+            this.btnRegis.Name = "btnRegis";
+            this.btnRegis.Size = new System.Drawing.Size(207, 28);
+            this.btnRegis.TabIndex = 4;
+            this.btnRegis.Text = "Register";
+            this.btnRegis.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -140,12 +140,12 @@
             this.label6.TabIndex = 2;
             this.label6.Text = "Mobile Number";
             // 
-            // textBox1
+            // txtFname
             // 
-            this.textBox1.Location = new System.Drawing.Point(178, 72);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(150, 22);
-            this.textBox1.TabIndex = 0;
+            this.txtFname.Location = new System.Drawing.Point(178, 72);
+            this.txtFname.Name = "txtFname";
+            this.txtFname.Size = new System.Drawing.Size(150, 22);
+            this.txtFname.TabIndex = 0;
             // 
             // label5
             // 
@@ -158,12 +158,12 @@
             this.label5.TabIndex = 2;
             this.label5.Text = "Address";
             // 
-            // textBox2
+            // txtLname
             // 
-            this.textBox2.Location = new System.Drawing.Point(178, 112);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(150, 22);
-            this.textBox2.TabIndex = 0;
+            this.txtLname.Location = new System.Drawing.Point(178, 112);
+            this.txtLname.Name = "txtLname";
+            this.txtLname.Size = new System.Drawing.Size(150, 22);
+            this.txtLname.TabIndex = 0;
             // 
             // label3
             // 
@@ -176,26 +176,26 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "E-Mail ID";
             // 
-            // textBox7
+            // txtCpW
             // 
-            this.textBox7.Location = new System.Drawing.Point(178, 232);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(150, 22);
-            this.textBox7.TabIndex = 0;
+            this.txtCpW.Location = new System.Drawing.Point(178, 232);
+            this.txtCpW.Name = "txtCpW";
+            this.txtCpW.Size = new System.Drawing.Size(150, 22);
+            this.txtCpW.TabIndex = 0;
             // 
-            // textBox3
+            // txtPw
             // 
-            this.textBox3.Location = new System.Drawing.Point(178, 192);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(150, 22);
-            this.textBox3.TabIndex = 0;
+            this.txtPw.Location = new System.Drawing.Point(178, 192);
+            this.txtPw.Name = "txtPw";
+            this.txtPw.Size = new System.Drawing.Size(150, 22);
+            this.txtPw.TabIndex = 0;
             // 
-            // textBox4
+            // txtMailID
             // 
-            this.textBox4.Location = new System.Drawing.Point(178, 152);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(150, 22);
-            this.textBox4.TabIndex = 0;
+            this.txtMailID.Location = new System.Drawing.Point(178, 152);
+            this.txtMailID.Name = "txtMailID";
+            this.txtMailID.Size = new System.Drawing.Size(150, 22);
+            this.txtMailID.TabIndex = 0;
             // 
             // label2
             // 
@@ -208,12 +208,12 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Last Name";
             // 
-            // textBox5
+            // txtMnum
             // 
-            this.textBox5.Location = new System.Drawing.Point(175, 272);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(150, 22);
-            this.textBox5.TabIndex = 0;
+            this.txtMnum.Location = new System.Drawing.Point(175, 272);
+            this.txtMnum.Name = "txtMnum";
+            this.txtMnum.Size = new System.Drawing.Size(150, 22);
+            this.txtMnum.TabIndex = 0;
             // 
             // label1
             // 
@@ -226,12 +226,12 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "First Name";
             // 
-            // textBox6
+            // txtAddress
             // 
-            this.textBox6.Location = new System.Drawing.Point(175, 312);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(150, 22);
-            this.textBox6.TabIndex = 0;
+            this.txtAddress.Location = new System.Drawing.Point(175, 312);
+            this.txtAddress.Name = "txtAddress";
+            this.txtAddress.Size = new System.Drawing.Size(150, 22);
+            this.txtAddress.TabIndex = 0;
             // 
             // Register
             // 
@@ -241,7 +241,7 @@
             this.ClientSize = new System.Drawing.Size(381, 450);
             this.Controls.Add(this.panel1);
             this.Name = "Register";
-            this.Text = "Register";
+            this.Text = "Register Form";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -251,22 +251,22 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.RadioButton RbtnnNews;
+        private System.Windows.Forms.Button btnRegis;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtFname;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtLname;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtCpW;
+        private System.Windows.Forms.TextBox txtPw;
+        private System.Windows.Forms.TextBox txtMailID;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtMnum;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtAddress;
     }
 }
