@@ -1,0 +1,11 @@
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\bin\Debug\ABC_Car_Traders.exe.config
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\bin\Debug\ABC_Car_Traders.exe
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\bin\Debug\ABC_Car_Traders.pdb
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.csproj.AssemblyReference.cache
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.Properties.Resources.resources
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.csproj.GenerateResource.cache
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.csproj.CoreCompileInputs.cache
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.exe
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.pdb
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.Account_Create.resources
+D:\Class\Esoft\C#\Project\ABC_Car_Traders\obj\Debug\ABC_Car_Traders.Register.resources
